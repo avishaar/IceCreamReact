@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css'
 
-function IceCreamTitle() {
+function IceCreamTitle(props) {
     return (
         <article>
             <h1>{props.title}</h1>
