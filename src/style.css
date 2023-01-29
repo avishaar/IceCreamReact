@@ -9,18 +9,22 @@
 }
 
 .title {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
     color: white;
     text-shadow: 2px 2px black;
     font-size: 35px;
 }
 
-.list {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+.gray {
+    color: gray;
+    text-shadow: 1px 1px black;
+}
+
+.white {
     color: white;
     text-shadow: 1px 1px black;
 }
 
 body {
     background-color: darkcyan;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
