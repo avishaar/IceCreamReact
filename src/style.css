@@ -1,7 +1,26 @@
 .red {
-    color: red;
+    color: lightcoral;
+    text-shadow: 1px 1px black;
 }
 
 .green {
-    color: green;
+    color: lightgreen;
+    text-shadow: 1px 1px black;
+}
+
+.title {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-size: 35px;
+}
+
+.list {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
+body {
+    background-color: darkcyan;
 }

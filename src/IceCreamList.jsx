@@ -10,7 +10,7 @@ function IceCreamList(props) {
     
     
     return (
-        <ul>
+        <ul className= 'list'>
             {FlavorListItems}
         </ul>
     )
