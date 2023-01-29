@@ -20,7 +20,7 @@ function App() {
 
 
     return (
-       <IceCreamTitle title={icecream.title} />
+       <IceCreamTitle title={icecream.title} feedback={icecream.feedback} />
     )
 }
 
