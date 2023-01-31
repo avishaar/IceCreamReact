@@ -10,7 +10,7 @@ function IceCreamList(props) {
     
     
     return (
-        <ul className={props.flavors.favorite == true ? 'gray' : 'white'}>
+        <ul className={props.flavors.favorite === true ? 'brown' : 'white'}>
             {FlavorListItems}
         </ul>
     )

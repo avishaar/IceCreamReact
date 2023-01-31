@@ -22,7 +22,7 @@ function App() {
 
     return [
     <IceCreamTitle title={icecream.title} feedback={icecream.feedback} />,
-    <IceCreamList flavors={icecream.flavors} />
+    <IceCreamList flavors={icecream.flavors} favorite={icecream.flavors.favorite} />
     ]
 }
 
